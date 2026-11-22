@@ -5,3 +5,13 @@
   align-items: center;
   justify-content: center;
 }
+
+.video {
+  display: block;
+  width: 75%;
+  height: auto;
+  aspect-ratio: 16 / 9; /* 这一行就够了 */
+  border: 0;
+  border-radius: 10px;
+  background: #000;
+}
